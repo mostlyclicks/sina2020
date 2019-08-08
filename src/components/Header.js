@@ -6,8 +6,12 @@ export default function Header() {
   return (
     <section id="header">
       <header className="major">
-        <h1>{config.heading}</h1>
-        <p>{config.subHeading}</p>
+        <h1>
+        <a href="https://www.gatsbyjs.org/">Gatsby</a> HTML5Up
+        </h1>
+        <p>
+        <a href="https://github.com/app-generator/gatsby-html5up-highlights">Open-Source</a> app with Highlight design
+        </p>
       </header>
       <div className="container">
         <ul className="actions special">

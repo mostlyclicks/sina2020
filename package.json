@@ -1,14 +1,14 @@
 {
-  "name": "gatsby-starter-highlights",
+  "name": "gatsby-html5up-highlights",
   "version": "0.0.1",
   "description": "Gatsby.js V2 starter template based on Highlights by HTML5 UP",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/anubhavsrivastava/gatsby-starter-highlights.git"
+    "url": "git+https://github.com/app-generator/gatsby-html5up-highlights.git"
   },
   "author": {
-    "name": "Anubhav Srivastava",
-    "email": "anubhav.srivastava00@gmail.com"
+    "name": "Sm0ke",
+    "email": "support@appseed.us"
   },
   "dependencies": {
     "ftp-deploy": "^2.3.3",
@@ -48,7 +48,7 @@
   ],
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/anubhavsrivastava/gatsby-starter-highlights/issues"
+    "url": "https://github.com/app-generator/gatsby-html5up-highlights/issues"
   },
-  "homepage": "https://github.com/anubhavsrivastava/gatsby-starter-highlights#readme"
+  "homepage": "https://gatsby-html5up-highlights.appseed.us"
 }

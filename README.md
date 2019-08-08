@@ -1,7 +1,18 @@
-# [GatsbyJS Highlights](https://gatsby-html5up-highlights.appseed.us)
+# [GatsbyJS Highlights](https://appseed.us/apps/gatsbyjs/gatsby-html5up-highlights)
 
 Open-source app built with GatsbyJS on top of HTML5Up Highlights design. 
 **Forked from [this](https://github.com/anubhavsrivastava/gatsby-starter-highlights) project.**
+
+<br />
+
+![GatsbyJS Highlights - Gif animated intro.](https://github.com/app-generator/static/blob/master/products/gatsby-html5up-highlights-intro.gif?raw=true)
+
+<br />
+
+## App Links
+
+- [GatsbyJS Spectral](https://gatsby-html5up-highlights.appseed.us) - live demo
+- [highlights](https://html5up.net/highlights) - the design provided by Html5UP 
 
 <br />
 
@@ -16,7 +27,7 @@ Open-source app built with GatsbyJS on top of HTML5Up Highlights design.
 
 ## Support
 
-For Support please access the [Support](https://appseed.us/support) provided by **AppSeed** 
+Please access the official [Support](https://appseed.us/support) page provided by **AppSeed** 
 
 <br />
 
@@ -28,4 +39,4 @@ For Support please access the [Support](https://appseed.us/support) provided by 
 <br />
 
 ---
-[GatsbyJS Highlights](https://gatsby-html5up-highlights.appseed.us) provided by **AppSeed**
+[GatsbyJS Highlights](https://appseed.us/apps/gatsbyjs/gatsby-html5up-highlights) provided by **AppSeed**

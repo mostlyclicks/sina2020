@@ -11,7 +11,7 @@ Open-source app built with GatsbyJS on top of HTML5Up Highlights design.
 
 ## App Links
 
-- [GatsbyJS Spectral](https://gatsby-html5up-highlights.appseed.us) - live demo
+- [GatsbyJS Highlights](https://gatsby-html5up-highlights.appseed.us) - live demo
 - [highlights](https://html5up.net/highlights) - the design provided by Html5UP 
 
 <br />

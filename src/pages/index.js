@@ -27,11 +27,7 @@ const IndexPage = () => (
             <h2>Who I am</h2>
           </header>
           <p>
-            Aliquam ante ac id. Adipiscing interdum lorem praesent fusce
-            pellentesque arcu feugiat. Consequat sed ultricies rutrum. Sed
-            adipiscing eu amet interdum lorem blandit vis ac commodo aliquet
-            integer vulputate phasellus lorem ipsum dolor lorem magna consequat
-            sed etiam adipiscing interdum.
+            At 5’3, Solouksaran has a slight build, a calm yet intense presence and his words when he speaks are well chosen and thoughtful. It is his passion for cycling that animates his gestures and expressions when he talks about the experience of riding his mountain bike, and his smile cannot contain his happiness “Mountain biking is my passion, it always has been.”
           </p>
         </div>
         <Scroll type="id" element="two">
@@ -49,28 +45,27 @@ const IndexPage = () => (
         </span>
         <div className="content">
           <header className="major">
-            <h2>Stuff I do</h2>
+            <h2>Accolades, Palmares, Rides</h2>
           </header>
           <p>
-            Consequat sed ultricies rutrum. Sed adipiscing eu amet interdum
-            lorem blandit vis ac commodo aliquet vulputate.
+            Winning, living and just riding. Here are some highlights
           </p>
           <ul className="icons-grid">
             <li>
               <span className="icon major fa-camera-retro" />
-              <h3>Photography</h3>
+              <h3>Race #3</h3>
             </li>
             <li>
               <span className="icon major fa-pencil" />
-              <h3>Blogging</h3>
+              <h3>Race #1</h3>
             </li>
             <li>
               <span className="icon major fa-code" />
-              <h3>Web Development</h3>
+              <h3>Race #2</h3>
             </li>
             <li>
               <span className="icon major fa-coffee" />
-              <h3>Sipping Coffee</h3>
+              <h3>Race #4</h3>
             </li>
           </ul>
         </div>

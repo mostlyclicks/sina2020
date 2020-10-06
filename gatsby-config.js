@@ -3,8 +3,8 @@ const config = require('./config');
 module.exports = {
   pathPrefix: config.pathPrefix,
   siteMetadata: {
-		title: 'Gatsby Html5up - Open-Source app with HighLights design',
-    description: `Open-Source Gatsby Starter`,
+    title: 'Sina Solouksaran | Professional Mountain Bike Rider',
+    description: `Learn more about Sina Solouksaran - Iranian professional mountain biker - Team Giant Factory Racing`,
     author: `@Sm0keDev`,
 		siteUrl: `https://gatsby-html5up-highlights.appseed.us`,
   },

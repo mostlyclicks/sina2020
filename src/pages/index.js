@@ -9,9 +9,9 @@ import overLayPic from '../assets/images/overlay.png';
 import { Link } from 'gatsby';
 
 const sections = [
-  { id: 'one', bg: require('../assets/images/pic01.jpg') },
-  { id: 'two', bg: require('../assets/images/pic02.jpg') },
-  { id: 'three', bg: require('../assets/images/pic03.jpg') },
+  { id: 'one', bg: require('../assets/images/sina-air.jpg') },
+  { id: 'two', bg: require('../assets/images/instagram-image.jpg') },
+  { id: 'three', bg: require('../assets/images/trailside.jpg') },
 ];
 const IndexPage = () => (
   <Layout>

@@ -7,10 +7,10 @@ export default function Header() {
     <section id="header">
       <header className="major">
         <h1>
-        <a href="https://www.gatsbyjs.org/">Gatsby</a> HTML5Up
+          sina solouksaran
         </h1>
         <p>
-        <a href="https://github.com/app-generator/gatsby-html5up-highlights">Open-Source</a> app with Highlight design
+        Professional Mountain Biker
         </p>
       </header>
       <div className="container">
